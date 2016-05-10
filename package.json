@@ -1,0 +1,22 @@
+{
+  "name": "betting_game",
+  "version": "1.0.0",
+  "description": "betting game for the console using javascript",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achandi/JS_console_betting_game.git"
+  },
+  "author": "Ajit Chandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achandi/JS_console_betting_game/issues"
+  },
+  "homepage": "https://github.com/achandi/JS_console_betting_game#readme",
+  "devDependencies": {
+    "git-push": "^0.1.1"
+  }
+}
